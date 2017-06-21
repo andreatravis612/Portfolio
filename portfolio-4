@@ -47,25 +47,25 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> Def: A variable is a value that can change, depending on conditions or on information passed to the program.</td>
+          <td> RLA: Credit card holds certain amount of money that may change </td>
+          <td>Python Ex: Name = Andrea </td>
+          <td> </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>Def: A loop is a programming structure that repeats a sequence of instructions until a specific condition is met. </td>
+          <td>RLA:  </td>
+          <td>Python ex: </td>
           <td>  </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
+          <td> </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
