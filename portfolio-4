@@ -56,7 +56,7 @@
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>Def: A loop is a programming structure that repeats a sequence of instructions until a specific condition is met. </td>
+          <td>Def: A loop is a programming structure that repeats a sequence <br> of instructions until a specific condition is met. </td>
           <td>RLA:  </td>
           <td>Python ex: </td>
           <td>  </td>
@@ -65,8 +65,8 @@
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td> </td>
-          <td>  </td>
+          <td>Def: Conditonal expressions are features of a programming language which perform <br> different computations or actions depending on whether a programmer-specified boolean conditon evaluates to true or false.  </td>
+          <td>RLA </td>
           <td>  </td>
           <td>  </td>
         </tr>
@@ -74,8 +74,8 @@
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td>Def: A function is a type of procedure or routine. </td>
+          <td> RLA: </td>
           <td>  </td>
           <td>  </td>
         </tr>
