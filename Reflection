@@ -1,0 +1,22 @@
+<html>
+ <head>
+  <style>
+ Body {
+ background-color: lightgray
+ }
+  Header {
+     padding: 10px;
+    color: gray;
+    background-color: antiquewhite;
+   text-align: Left;
+   font-family:rockwell;
+   } 
+    </style>
+     <title>  Reflections </title>
+  </head>
+  </div> 
+  <body>
+   <header>
+     <h1> <b> REFLECTIONS </b> </h1>
+ </header>
+ 
